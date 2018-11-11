@@ -5,8 +5,10 @@ Snapshot IGV with batch file
 ### 1. Prepration
 
 * gene coordinate tsv file
+
 ![paper](https://github.com/mayupsc/figures_in_ReadMe/blob/master/Selection_008.png)
 * adjusted gene coordinate file
+
 ![paper](https://github.com/mayupsc/figures_in_ReadMe/blob/master/Selection_011.png)
 
 ps:I get these files via Rscript interest_gene_coor.R, a script that means to extract gene coordinate from gff file.
