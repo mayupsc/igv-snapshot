@@ -8,6 +8,7 @@ Snapshot IGV with batch file
 ![paper](https://github.com/mayupsc/figures_in_ReadMe/blob/master/Selection_008.png)
 * adjusted gene coordinate file
 ![paper](https://github.com/mayupsc/figures_in_ReadMe/blob/master/Selection_011.png)
+
 ps:I get these files via Rscript interest_gene_coor.R, a script that means to extract gene coordinate from gff file.
 
 * region batch file(show DMRs around genes of interest,which could be get by overlaping DMRs with gene coordinate file)
